@@ -3,7 +3,7 @@
  
 ## Overview
  
-An interactive data visualization dashboard analyzing the relationship between school funding, student diversity, and academic achievement across all 100 North Carolina counties. Built with D3.js, the dashboard links a choropleth county map, a racial demographics bar chart, and scatter plots — all updating simultaneously when a county is selected.
+An interactive data visualization dashboard analyzing the relationship between school funding, student diversity, and academic achievement across all 100 North Carolina counties. Built with D3.js, the dashboard links a choropleth county map, a racial demographics bar chart, and scatter plots which all updates simultaneously when a county is selected.
  
 **Research Question:** Does diversity correlate with academic achievement and school funding in North Carolina public schools?
  
@@ -35,7 +35,7 @@ The dashboard allows users to answer questions like:
  
 ## Diversity Index
  
-The diversity index used in this project was calculated using the **Shannon-Wiener model** — a standard ecological diversity metric adapted for racial demographics. It accounts for both the number of racial groups present and the evenness of their distribution within a county's student population. See the [Shannon-Wiener methodology](https://archives.huduser.gov/healthycommunities/sites/default/files/public/Racial%20Diversity%20using%20Shannon-Wiener%20Index.pdf) for details.
+The diversity index used in this project was calculated using the **Shannon-Wiener model**: a standard ecological diversity metric adapted for racial demographics. It accounts for both the number of racial groups present and the evenness of their distribution within a county's student population. See the [Shannon-Wiener methodology](https://archives.huduser.gov/healthycommunities/sites/default/files/public/Racial%20Diversity%20using%20Shannon-Wiener%20Index.pdf) for details.
  
 ## File Structure
  
